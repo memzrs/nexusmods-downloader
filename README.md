@@ -1,6 +1,6 @@
 # Nexus Mods Downloader
 
-NMD is a tool utilizing basic axios settings to to enhance large Nexus Mods collection installation for other mod managers such as MO2.
+NMD is a tool utilizing puppeteer to to enhance large Nexus Mods collection installation for other mod managers such as MO2.
 
 The script is currently in development and documentation is work-in-progress.
 
