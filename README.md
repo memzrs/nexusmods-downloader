@@ -4,7 +4,7 @@ NMD is a tool utilizing puppeteer to to enhance large Nexus Mods collection inst
 
 The script is currently in development and documentation is work-in-progress.
 
-Installation is currently quite complex for the end-user experience and functionality is still missing, This script will be improved in the next few days, Please do not be alarmed by providing your raw cookie string further in the installation as it is mandatory for downloading content as within download URLs from the CDN the link verifies your IP and Userid and this would be otherwise impossible without (read below for explanation of URL formatting) 
+Installation is currently quite annoying for the end-user experience and functionality is still missing, This script will be improved in the next few days, Please do not be alarmed by providing your raw cookie string further in the installation as it is mandatory for downloading content as within download URLs from the CDN the link verifies your IP and Userid and this would be otherwise impossible without (read below for explanation of URL formatting) 
 cf-files.nexusmods.com/cdn/(gameid)/(modid)/(modname)-(modid)-(modmanager)-(fileid).rar?md5=_(md5)Q&expires=(date)&user_id=(account user id)&rip=(IP address)
 
 Adding further documentation later
