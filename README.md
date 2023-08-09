@@ -13,4 +13,5 @@ Help provided by lord csmit195:
 github.com/csmit195
 Disclaimer:
 Nexus Mods has stated that this program breaks the Nexus Mods Terms of Service, The developer will not be held responsible for use of this software.
+
 Nexus Mods Downloader is managed by @memzrs on most platforms.
